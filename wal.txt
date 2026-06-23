@@ -1,0 +1,5 @@
+{"operation":"SET","key":"2","value":"rodrigo"}
+{"operation":"SET","key":"1","value":"joao"}
+{"operation":"SET","key":"1","value":"pedro"}
+{"operation":"SET","key":"3","value":"ana"}
+{"operation":"DEL","key":"3"}
